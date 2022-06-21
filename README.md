@@ -1,4 +1,4 @@
-# ObjectDetection
+# ObjectClassification
 ## Dataset:
 Working with a dataset of 50000 training images and 10000 test images, grouped into 10 classes.
 
