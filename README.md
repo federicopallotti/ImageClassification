@@ -16,12 +16,19 @@ normalization of each input image. Here are some normalized images:
 
 ## CNN
 The following convolutional neural networks was implemented using rectified linear activation functions (ReLUs):
+
 • Convolutional layer 1: 32 filters, 3 × 3. (b) Convolutional layer 2: 32 filters, 3 × 3.
+
 • Max-pooling layer 1: 2 × 2 windows.
+
 • Convolutional layer 3: 64 filters, 3 × 3. 
+
 • Convolutional layer 4: 64 filters, 3 × 3. 
+
 • Max-pooling layer 2: 2 × 2 windows. 
+
 • Fully connected layer 1: 512 units.
+
 • Softmax output layer.
 
 ## Training
